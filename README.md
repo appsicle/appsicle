@@ -1,4 +1,6 @@
 ## Hi there 👋
 
 - Senior engineer at parallel distribution
-- NYC
+- Previously at Microsoft
+- Cursor + deepseek abuser
+
