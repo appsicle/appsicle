@@ -1,10 +1,11 @@
-## Hi there 👋
+## Resume
 
 - 🚀 Senior engineer at parallel distribution (based)
 - 🧑🏻‍💼 Previously at Microsoft (turbo normie)
 - 🤖 Cursor + deepseek abuser (woke)
 - 🤢 AI slop + web slop enthusiast
-
+- 😎 Self proclaimed critical thinker
+  
 ## Inspiration
 \
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmp5emtpcGJhaHZvNWRndnIzMms0cmQ2YmF4MDUxeDNmeG9pNmwzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8WpYQ9nWGp2tq/giphy.gif" alt="Naruto" height="200" width="330" />
