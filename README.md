@@ -4,7 +4,6 @@
 - 🧑🏻‍💼 Previously at Microsoft (turbo normie)
 - 🤖 Cursor + deepseek abuser (woke)
 - 🤢 AI slop + web slop enthusiast
-- 😎 Self proclaimed critical thinker
   
 ## Inspiration
 \
