@@ -1,9 +1,6 @@
 ## Resume
 
-- 🚀 Senior engineer at parallel distribution (based)
-- 🧑🏻‍💼 Previously at Microsoft (turbo normie)
-- 🤖 Cursor + deepseek abuser (woke)
-- 🤢 AI slop + web slop enthusiast
+- 🚀 Senior engineer at parallel distribution 
   
 ## Inspiration
 \
