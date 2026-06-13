@@ -1,5 +1,7 @@
 Things I built
 
+[Daisy Notes](https://daisynotes.app/)
+
 [Kashie](https://www.kashie.ai) 
 
 [Launchpoint](https://www.launchpointhq.com) 
