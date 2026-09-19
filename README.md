@@ -2,7 +2,7 @@ Things I built
 
 [Kashie](https://www.kashie.ai) $25k MRR
 
-[Launchpoint](https://www.launchpointhq.com) $XXXk MRR
+[Launchpoint](https://www.launchpointhq.com) $XXXXk MRR
 
 [Daisy Notes](https://daisynotes.app/) $0
 
